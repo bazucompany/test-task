@@ -1,4 +1,4 @@
-### Test task for PHP Developer position
+# Test tasks for PHP Developer position
 ## Task 1: Refactor
 - Refactor the code (task1.php / cal.php) so it looks normal by your preferences.
 - Execution time is not more than 15 minutes.
