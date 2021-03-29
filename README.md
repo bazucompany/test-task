@@ -9,10 +9,10 @@ Write a php script "task2.php" that prints the numbers from 1 to 50. Please cons
 ## Task 3: HTML + CSS + JS
 Make a single HTML file "task3.html" with included CSS / JS which has a form with those fields
 - Name
-- Postcode
-- town
+- ZIP Code
+- Town
 - Message
 Add some field checking and design the form so it looks nice
 
 ## Result
-- ZIP all files and send via email to nickolayb@bazucompany.com with the subject "Test task for the position of PHP developer".
+- ZIP all files and send via email to nickolayb@bazucompany.com with the subject "Test task for the position of PHP developer". Password protect the zip file with password "bazu".
