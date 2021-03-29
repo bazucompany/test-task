@@ -12,7 +12,8 @@ Make a single HTML file "task3.html" with included CSS / JS which has a form wit
 - ZIP Code
 - Town
 - Message
-Add some field checking and design the form so it looks nice
+
+Add some field validation and design the form so it looks nice by your preferences.
 
 ## Result
 - ZIP all files and send via email to nickolayb@bazucompany.com with the subject "Test task for the position of PHP developer". Password protect the zip file with password "bazu".
