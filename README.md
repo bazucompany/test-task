@@ -10,4 +10,4 @@ Write a php script that prints the numbers from 1 to 50. Please consider this: f
 HTML + CSS + JS
 
 ## Result
-- Upload the result of your work to your repository and send a link to Telegram @mykolai or nickolayb@bazucompany.com with the subject **"Test task for the position of PHP developer"**.
+- ZIP all files and send via email to nickolayb@bazucompany.com with the subject "Test task for the position of PHP developer".
