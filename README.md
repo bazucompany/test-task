@@ -14,6 +14,7 @@ Make a single HTML file "task3.html" with included CSS / JS which has a form wit
 - Message
 
 Add some field validation and design the form so it looks nice by your preferences.
+Feel free to use any css / js / html framework you like to get the task done.
 
 ## Result
 - ZIP all files and send via email to nickolayb@bazucompany.com with the subject "Test task for the position of PHP developer". Password protect the zip file with password "bazu".
